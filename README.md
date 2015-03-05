@@ -1,6 +1,6 @@
 # Test
 
-###<font colir="red">据说是markdown</font>
+<font colir="red">据说是markdown</font>
 
 <a name="link">点击跳转</a>
 
